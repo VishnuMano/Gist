@@ -1,5 +1,5 @@
 import React from 'react'
-import { logo } from '../assets';
+import { logo } from "../assets"
 
 const Hero = () => {
   return (
@@ -23,7 +23,7 @@ const Hero = () => {
       </h1>
 
       <h2 className="desc">
-        Gist is an open-source tool that summarizes lengthy articles into concise paragraphs.
+        Gist is an open-source tool that summarizes lengthy articles into concise paragraphs. If the copied article is behind a paywall, Gist could experience difficulties accessing the article. Happy Summarizing 🚀!
       </h2>
     </header>
   )
